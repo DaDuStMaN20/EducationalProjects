@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFa0+HDs0m8wodiZKfkWYJL41rH/py4GismETTYHa3HgAEHrVysayFbUwk6KyQalYffK6E86ZiH02ERhTWKgpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DaDuStMaN20\\source\\repos\\TestApp\\InheritanceAndInterfaces\\InheritanceAndInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\mongodb.bson\\2.16.0\\mongodb.bson.2.16.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\mongodb.driver\\2.16.0\\mongodb.driver.2.16.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\mongodb.driver.core\\2.16.0\\mongodb.driver.core.2.16.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.2\\mongodb.libmongocrypt.1.5.2.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\DaDuStMaN20\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
